@@ -1,0 +1,3 @@
+plant_id: a9dd14d824822d6d78d0fe3e55dbd7fb # ID of store
+material_id: 3a57e118023712eb5876864815796a78 # ID of material (item)
+dates_interval: 2016-10-04, 2017-10-04 # start and end dates of the considered time interval
